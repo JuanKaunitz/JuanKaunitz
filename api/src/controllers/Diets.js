@@ -1,29 +1,18 @@
 const { conn, Diet } = require('../db.js');
-const { Op } = require('sequelize');
 
-
-async function getAllDiets(req, res) {
-    
-    let typeDiet = 'vegan';
-     
+async function getAllDiets(req, res) {        
     conn
     .sync({
         force: false
     })
     .then (
         async () => {
-        let diets = await diet.findAll({
-            where: { 
-                name: typeDiet 
-            }
-          });    
-          console.log(diets.every(diet => diet instanceof Diet)); 
-          console.log("All diets: ", JSON.stringify(diets, null, 2));  
-          res.send(diets)
+        let resDiets = await Diet.findAll();    
+          //console.log(diets.every(diet => diet instanceof Diet)); 
+          //console.log("All diets: ", JSON.stringify(diets, null, 2));  
+          res.send(resDiets)
     });
-
-}
-
+};
 
 module.exports = {
     getAllDiets,
