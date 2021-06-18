@@ -1,8 +1,8 @@
 const { Router } = require("express");
 const router = Router();
-const { getAllRecipes } = require("../Controllers/Recipes");
+const { getRecipes } = require("../Controllers/Recipes");
 
-router.get("/", getAllRecipes);
+router.get("/", getRecipes);
 
 //router.get("/", getAllRecipes);
 
