@@ -11,9 +11,10 @@ function Landing() {
         <img src={'C:/Users/jkaun/Desktop/PI-Food/PI-Food/client/src/components/comida5.jpg'} alt='Fondo de bienvenida'></img>
         <h1>Henry Food</h1>
         <h3>BIENVENIDOS A MI PI FOOD!</h3>
-        <nav>
+        
+        <navLink>
           <button Link to='/home'>Home</button>
-        </nav>
+        </navLink>
     </div>    
   );
 }
