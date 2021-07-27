@@ -5,6 +5,8 @@
 
 # Wellcome to my HitHub!
 
+I am a double bass player and music teacher and now also a web designer. I work as a full stack web developer. I like art, science and personal growth.
+
 <p align="right">
   <img height="200" src="https://e7.pngegg.com/pngimages/292/452/png-clipart-graphics-drawing-double-bass-musician-jazz-musical-instruments-monochrome-double-bass-thumbnail.png" />
 </p>
