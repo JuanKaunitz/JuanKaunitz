@@ -13,9 +13,9 @@ I like art, science and practices related with my personal and spiritual growth.
   <img height="200" src="https://e7.pngegg.com/pngimages/292/452/png-clipart-graphics-drawing-double-bass-musician-jazz-musical-instruments-monochrome-double-bass-thumbnail.png" />
 </p>
 
-## TECs I Use
+## Languages and Tools:
 
-- React, Redux, Express, Node, Sequelize - Postgres, manejo de API y dB GIT, HTML5 y CSS 
+- JavaScript, React, Redux, Express, Node, Sequelize - PostgresSQL, manejo de API y dB, GIT, HTML5 y CSS 
 
 - 🌱 I’m currently learning new programming skills at Henry´s bootcamp bulding a collaborative e-commerce project 
 - 👯 I’m looking to collaborate on new projects
@@ -23,5 +23,5 @@ I like art, science and practices related with my personal and spiritual growth.
 - ⚡ Fun fact: I like to work on groups and meet people from all over the world
 
 
-Languages and Tools:
-javascript html5 css3 react redux node express postgreSQL sequelize git terminal visualstudio
+
+
