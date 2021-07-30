@@ -17,9 +17,11 @@ I like art, science and practices related with my personal and spiritual growth.
 
 - React, Redux, Express, Node, Sequelize - Postgres, manejo de API y dB GIT, HTML5 y CSS 
 
-- 🌱 I’m currently learning new programming skills at Henry`s bootcamp 
-- 👯 I’m looking to collaborate on e-tec team projects
-- 📫 How to reach me: jkaunitz@gmail.com  / https://www.linkedin.com/in/juan-kaunitz/
+- 🌱 I’m currently learning new programming skills at Henry´s bootcamp bulding a collaborative e-commerce project 
+- 👯 I’m looking to collaborate on new projects
+- 📫 Contact me: jkaunitz@gmail.com  / https://www.linkedin.com/in/juan-kaunitz/
 - ⚡ Fun fact: I like to work on groups and meet people from all over the world
 
 
+Languages and Tools:
+javascript html5 css3 react redux node express postgreSQL sequelize git terminal visualstudio
