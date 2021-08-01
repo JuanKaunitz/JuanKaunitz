@@ -15,7 +15,7 @@ I like art, science and practices related with my personal and spiritual growth.
 
 ## Languages and Tools:
 
-- JavaScript, React, Redux, Express, Node, Sequelize - PostgresSQL, manejo de API y dB, GIT, HTML5 y CSS 
+- JavaScript, React, Redux, Express, Node, Sequelize - PostgresSQL, API y dB management, GIT, HTML5 y CSS 
 
 - 🌱 I’m currently learning new programming skills at Henry´s bootcamp bulding a collaborative e-commerce project 
 - 👯 I’m looking to collaborate on new projects
